@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Mobile_AssignmentTest" duration-ms="230790" started-at="2019-12-16T21:19:55 PST" finished-at="2019-12-16T21:23:46 PST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="230790" started-at="2019-12-16T21:19:55 PST" finished-at="2019-12-16T21:23:46 PST">
+      <class name="Mobile_AssignmentTest">
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="MobileTest" is-config="true" duration-ms="6" started-at="2019-12-16T21:19:55 PST" finished-at="2019-12-16T21:19:55 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="ClickAction()[pri:1, instance:Mobile_AssignmentTest@59494225]" name="ClickAction" duration-ms="19866" started-at="2019-12-16T21:19:55 PST" finished-at="2019-12-16T21:20:15 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAction -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="Teardown" is-config="true" duration-ms="1463" started-at="2019-12-16T21:20:15 PST" finished-at="2019-12-16T21:20:16 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="contactScrolling()[pri:2, instance:Mobile_AssignmentTest@59494225]" name="contactScrolling" duration-ms="47297" started-at="2019-12-16T21:20:16 PST" finished-at="2019-12-16T21:21:04 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactScrolling -->
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="MobileTest" is-config="true" duration-ms="0" started-at="2019-12-16T21:20:16 PST" finished-at="2019-12-16T21:20:16 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="Teardown" is-config="true" duration-ms="1001" started-at="2019-12-16T21:21:04 PST" finished-at="2019-12-16T21:21:05 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="SwipeAction()[pri:3, instance:Mobile_AssignmentTest@59494225]" name="SwipeAction" duration-ms="11996" started-at="2019-12-16T21:21:05 PST" finished-at="2019-12-16T21:21:17 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SwipeAction -->
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="MobileTest" is-config="true" duration-ms="0" started-at="2019-12-16T21:21:05 PST" finished-at="2019-12-16T21:21:05 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="Teardown" is-config="true" duration-ms="843" started-at="2019-12-16T21:21:17 PST" finished-at="2019-12-16T21:21:17 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="MobileTest" is-config="true" duration-ms="1" started-at="2019-12-16T21:21:17 PST" finished-at="2019-12-16T21:21:17 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="multitouchAction()[pri:4, instance:Mobile_AssignmentTest@59494225]" name="multitouchAction" duration-ms="16098" started-at="2019-12-16T21:21:17 PST" finished-at="2019-12-16T21:21:34 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multitouchAction -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="Teardown" is-config="true" duration-ms="1448" started-at="2019-12-16T21:21:34 PST" finished-at="2019-12-16T21:21:35 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="MobileTest" is-config="true" duration-ms="0" started-at="2019-12-16T21:21:35 PST" finished-at="2019-12-16T21:21:35 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="ZoomAction()[pri:5, instance:Mobile_AssignmentTest@59494225]" name="ZoomAction" duration-ms="47841" started-at="2019-12-16T21:21:35 PST" finished-at="2019-12-16T21:22:23 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ZoomAction -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="Teardown" is-config="true" duration-ms="1114" started-at="2019-12-16T21:22:23 PST" finished-at="2019-12-16T21:22:24 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="MobileTest" is-config="true" duration-ms="2" started-at="2019-12-16T21:22:24 PST" finished-at="2019-12-16T21:22:24 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="ScreenshotAction()[pri:6, instance:Mobile_AssignmentTest@59494225]" name="ScreenshotAction" duration-ms="10555" started-at="2019-12-16T21:22:24 PST" finished-at="2019-12-16T21:22:35 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenshotAction -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="Teardown" is-config="true" duration-ms="1002" started-at="2019-12-16T21:22:35 PST" finished-at="2019-12-16T21:22:36 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="MobileTest" is-config="true" duration-ms="0" started-at="2019-12-16T21:22:36 PST" finished-at="2019-12-16T21:22:36 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="ScreenLock()[pri:7, instance:Mobile_AssignmentTest@59494225]" name="ScreenLock" duration-ms="25260" started-at="2019-12-16T21:22:36 PST" finished-at="2019-12-16T21:23:01 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenLock -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="Teardown" is-config="true" duration-ms="1083" started-at="2019-12-16T21:23:01 PST" finished-at="2019-12-16T21:23:02 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="MobileTest" is-config="true" duration-ms="0" started-at="2019-12-16T21:23:02 PST" finished-at="2019-12-16T21:23:02 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="DragandDrop()[pri:8, instance:Mobile_AssignmentTest@59494225]" name="DragandDrop" duration-ms="21566" started-at="2019-12-16T21:23:02 PST" finished-at="2019-12-16T21:23:23 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragandDrop -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="Teardown" is-config="true" duration-ms="1012" started-at="2019-12-16T21:23:23 PST" finished-at="2019-12-16T21:23:24 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="MobileTest" is-config="true" duration-ms="0" started-at="2019-12-16T21:23:24 PST" finished-at="2019-12-16T21:23:24 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+        <test-method status="PASS" signature="swithchApp()[pri:9, instance:Mobile_AssignmentTest@59494225]" name="swithchApp" duration-ms="19639" started-at="2019-12-16T21:23:24 PST" finished-at="2019-12-16T21:23:44 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swithchApp -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:Mobile_AssignmentTest@59494225]" name="Teardown" is-config="true" duration-ms="1649" started-at="2019-12-16T21:23:44 PST" finished-at="2019-12-16T21:23:46 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Mobile_AssignmentTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Mobile_AssignmentTest -->
+</testng-results>
